@@ -7,7 +7,7 @@ class Solution {
         while(x>0){
             rem=x%10;
             x=x/10;
-             if (ans > Integer.MAX_VALUE / 10 ) {
+            if(ans>Integer.MAX_VALUE/10   ){
                 return false;
             }
             ans=ans*10+rem;
@@ -15,8 +15,6 @@ class Solution {
         if(ans==n){
             return true;
         }
-        else{
         return false;
-        }
     }
 }
