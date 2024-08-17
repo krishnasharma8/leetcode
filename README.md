@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/krishnasharma8/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/krishnasharma8/leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/krishnasharma8/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
