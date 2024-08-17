@@ -15,6 +15,8 @@ class Solution {
         if(ans==n){
             return true;
         }
+        else{
         return false;
+        }
     }
 }
