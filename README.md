@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/krishnasharma8/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/krishnasharma8/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/krishnasharma8/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/krishnasharma8/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/krishnasharma8/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/krishnasharma8/leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/krishnasharma8/leetcode/tree/master/0263-ugly-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishnasharma8/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/krishnasharma8/leetcode/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krishnasharma8/leetcode/tree/master/0043-multiply-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/krishnasharma8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
