@@ -50,9 +50,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/krishnasharma8/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/krishnasharma8/leetcode/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/krishnasharma8/leetcode/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/krishnasharma8/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/krishnasharma8/leetcode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/krishnasharma8/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
